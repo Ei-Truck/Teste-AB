@@ -1,0 +1,115 @@
+"Maze ID","Block ID","Block type","Block title","Block description","Tester ID","Started at","Completed at","Study duration (seconds)","Device type","OS","Vendor","Model","Browser","Browser version","Language","Source","Reach email","Mission type","Path","Screen ID","Screen duration (seconds)","Total duration (seconds)","Success","Give up","x","y","Total click count","Total misclick count","Misclick rate","Total misclick page count"
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","455165357","2025-10-15 11:18:29","2025-10-15 11:21:12",163.8,,"Windows",,,"Opera","122.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1151;2100:2054;2100:1231;2100:2054;2319:2123;2100:1099","2100:2054",4.2,12.47,"TRUE","FALSE",91,6,6,0,"0.00%",0
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","455165357","2025-10-15 11:18:29","2025-10-15 11:21:12",163.8,,"Windows",,,"Opera","122.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1151;2100:2054;2100:1231;2100:2054;2319:2123;2100:1099","2100:1151",2.6,12.47,"TRUE","FALSE",9,9,6,0,"0.00%",0
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","455165357","2025-10-15 11:18:29","2025-10-15 11:21:12",163.8,,"Windows",,,"Opera","122.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1151;2100:2054;2100:1231;2100:2054;2319:2123;2100:1099","2100:2054",1.2,12.47,"TRUE","FALSE",76,7,6,0,"0.00%",0
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","455165357","2025-10-15 11:18:29","2025-10-15 11:21:12",163.8,,"Windows",,,"Opera","122.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1151;2100:2054;2100:1231;2100:2054;2319:2123;2100:1099","2100:1231",1.2,12.47,"TRUE","FALSE",10,9,6,0,"0.00%",0
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","455165357","2025-10-15 11:18:29","2025-10-15 11:21:12",163.8,,"Windows",,,"Opera","122.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1151;2100:2054;2100:1231;2100:2054;2319:2123;2100:1099","2100:2054",1,12.47,"TRUE","FALSE",9,5,6,0,"0.00%",0
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","455165357","2025-10-15 11:18:29","2025-10-15 11:21:12",163.8,,"Windows",,,"Opera","122.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1151;2100:2054;2100:1231;2100:2054;2319:2123;2100:1099","2319:2123",2.3,12.47,"TRUE","FALSE",89,9,6,0,"0.00%",0
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","301227503","2025-10-15 11:39:52","2025-10-15 11:42:11",139.1,,"Windows",,,"Chrome","140.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:2229;2100:2054;2100:1231;2100:2054;2319:2123;2100:1099","2100:2054",4,17.06,"TRUE","FALSE",17,59,8,2,"25.00%",2
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","301227503","2025-10-15 11:39:52","2025-10-15 11:42:11",139.1,,"Windows",,,"Chrome","140.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:2229;2100:2054;2100:1231;2100:2054;2319:2123;2100:1099","2100:2054",4,17.06,"TRUE","FALSE",19,57,8,2,"25.00%",2
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","301227503","2025-10-15 11:39:52","2025-10-15 11:42:11",139.1,,"Windows",,,"Chrome","140.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:2229;2100:2054;2100:1231;2100:2054;2319:2123;2100:1099","2100:2229",2.6,17.06,"TRUE","FALSE",45,7,8,2,"25.00%",2
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","301227503","2025-10-15 11:39:52","2025-10-15 11:42:11",139.1,,"Windows",,,"Chrome","140.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:2229;2100:2054;2100:1231;2100:2054;2319:2123;2100:1099","2100:2229",2.6,17.06,"TRUE","FALSE",52,55,8,2,"25.00%",2
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","301227503","2025-10-15 11:39:52","2025-10-15 11:42:11",139.1,,"Windows",,,"Chrome","140.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:2229;2100:2054;2100:1231;2100:2054;2319:2123;2100:1099","2100:2054",4.3,17.06,"TRUE","FALSE",79,6,8,2,"25.00%",2
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","301227503","2025-10-15 11:39:52","2025-10-15 11:42:11",139.1,,"Windows",,,"Chrome","140.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:2229;2100:2054;2100:1231;2100:2054;2319:2123;2100:1099","2100:1231",1.9,17.06,"TRUE","FALSE",10,9,8,2,"25.00%",2
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","301227503","2025-10-15 11:39:52","2025-10-15 11:42:11",139.1,,"Windows",,,"Chrome","140.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:2229;2100:2054;2100:1231;2100:2054;2319:2123;2100:1099","2100:2054",2,17.06,"TRUE","FALSE",10,5,8,2,"25.00%",2
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","301227503","2025-10-15 11:39:52","2025-10-15 11:42:11",139.1,,"Windows",,,"Chrome","140.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:2229;2100:2054;2100:1231;2100:2054;2319:2123;2100:1099","2319:2123",2.3,17.06,"TRUE","FALSE",89,8,8,2,"25.00%",2
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","455195293","2025-10-15 13:54:25","2025-10-15 17:53:21",14335.5,"mobile","iOS","Apple","iPhone","Chrome","141.0.7390.69","pt-BR","link",,"GOAL_BASED","2100:2054;2319:2123;2100:1099","2100:2054",35.3,36.44,"TRUE","FALSE",6,6,2,0,"0.00%",0
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","455195293","2025-10-15 13:54:25","2025-10-15 17:53:21",14335.5,"mobile","iOS","Apple","iPhone","Chrome","141.0.7390.69","pt-BR","link",,"GOAL_BASED","2100:2054;2319:2123;2100:1099","2319:2123",1.1,36.44,"TRUE","FALSE",90,8,2,0,"0.00%",0
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","455339232","2025-10-15 17:53:22","2025-10-15 17:54:51",88.9,,"Windows",,,"Chrome","141.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2319:2123;2100:1099","2100:2054",1.2,2.41,"TRUE","FALSE",10,6,2,0,"0.00%",0
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","455339232","2025-10-15 17:53:22","2025-10-15 17:54:51",88.9,,"Windows",,,"Chrome","141.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2319:2123;2100:1099","2319:2123",1.2,2.41,"TRUE","FALSE",89,7,2,0,"0.00%",0
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","455720185","2025-10-16 11:47:12","2025-10-16 11:48:46",94.1,,"Windows",,,"Chrome","141.0.0.0","en-US","link",,"GOAL_BASED","2100:2054;2319:2123;2100:2054;2319:2123;2100:1099","2100:2054",5,6.88,"TRUE","FALSE",45,58,6,2,"33.33%",1
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","455720185","2025-10-16 11:47:12","2025-10-16 11:48:46",94.1,,"Windows",,,"Chrome","141.0.0.0","en-US","link",,"GOAL_BASED","2100:2054;2319:2123;2100:2054;2319:2123;2100:1099","2100:2054",5,6.88,"TRUE","FALSE",7,4,6,2,"33.33%",1
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","455720185","2025-10-16 11:47:12","2025-10-16 11:48:46",94.1,,"Windows",,,"Chrome","141.0.0.0","en-US","link",,"GOAL_BASED","2100:2054;2319:2123;2100:2054;2319:2123;2100:1099","2100:2054",5,6.88,"TRUE","FALSE",9,5,6,2,"33.33%",1
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","455720185","2025-10-16 11:47:12","2025-10-16 11:48:46",94.1,,"Windows",,,"Chrome","141.0.0.0","en-US","link",,"GOAL_BASED","2100:2054;2319:2123;2100:2054;2319:2123;2100:1099","2319:2123",0.2,6.88,"TRUE","FALSE",9,8,6,2,"33.33%",1
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","455720185","2025-10-16 11:47:12","2025-10-16 11:48:46",94.1,,"Windows",,,"Chrome","141.0.0.0","en-US","link",,"GOAL_BASED","2100:2054;2319:2123;2100:2054;2319:2123;2100:1099","2100:2054",0.6,6.88,"TRUE","FALSE",10,5,6,2,"33.33%",1
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","455720185","2025-10-16 11:47:12","2025-10-16 11:48:46",94.1,,"Windows",,,"Chrome","141.0.0.0","en-US","link",,"GOAL_BASED","2100:2054;2319:2123;2100:2054;2319:2123;2100:1099","2319:2123",1.1,6.88,"TRUE","FALSE",88,8,6,2,"33.33%",1
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","455777544","2025-10-16 13:54:29","2025-10-16 13:57:09",160.3,"mobile","Android",,"K","Chrome","141.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2319:2123;2100:1099","2100:2054",9.5,10.48,"TRUE","FALSE",20,59,3,1,"33.33%",1
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","455777544","2025-10-16 13:54:29","2025-10-16 13:57:09",160.3,"mobile","Android",,"K","Chrome","141.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2319:2123;2100:1099","2100:2054",9.5,10.48,"TRUE","FALSE",11,6,3,1,"33.33%",1
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","455777544","2025-10-16 13:54:29","2025-10-16 13:57:09",160.3,"mobile","Android",,"K","Chrome","141.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2319:2123;2100:1099","2319:2123",1,10.48,"TRUE","FALSE",89,9,3,1,"33.33%",1
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","456493983","2025-10-17 21:17:59","2025-10-17 21:21:15",195.9,"mobile","iOS","Apple","iPhone","Chrome","141.0.7390.69","pt-BR","link",,"GOAL_BASED","2100:2054;2319:2123;2100:1099","2100:2054",8.9,10.1,"TRUE","FALSE",9,4,2,0,"0.00%",0
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","456493983","2025-10-17 21:17:59","2025-10-17 21:21:15",195.9,"mobile","iOS","Apple","iPhone","Chrome","141.0.7390.69","pt-BR","link",,"GOAL_BASED","2100:2054;2319:2123;2100:1099","2319:2123",1.2,10.1,"TRUE","FALSE",89,7,2,0,"0.00%",0
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","456726697","2025-10-18 18:37:53","2025-10-18 18:39:50",117,,"Windows",,,"Brave","141.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1894;2319:2123;2100:1099","2100:2054",4,6.98,"TRUE","FALSE",79,57,4,1,"25.00%",1
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","456726697","2025-10-18 18:37:53","2025-10-18 18:39:50",117,,"Windows",,,"Brave","141.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1894;2319:2123;2100:1099","2100:2054",4,6.98,"TRUE","FALSE",82,58,4,1,"25.00%",1
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","456726697","2025-10-18 18:37:53","2025-10-18 18:39:50",117,,"Windows",,,"Brave","141.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1894;2319:2123;2100:1099","2100:1894",1.8,6.98,"TRUE","FALSE",10,10,4,1,"25.00%",1
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","456726697","2025-10-18 18:37:53","2025-10-18 18:39:50",117,,"Windows",,,"Brave","141.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1894;2319:2123;2100:1099","2319:2123",1.1,6.98,"TRUE","FALSE",90,8,4,1,"25.00%",1
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","457222149","2025-10-20 18:18:00","2025-10-20 19:50:20",5540.2,,"Windows",,,"Chrome","141.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1151;2100:2054;2100:1231;2100:2054;2319:2123;2100:1099","2100:2054",7.3,20.71,"TRUE","FALSE",93,6,6,0,"0.00%",0
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","457222149","2025-10-20 18:18:00","2025-10-20 19:50:20",5540.2,,"Windows",,,"Chrome","141.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1151;2100:2054;2100:1231;2100:2054;2319:2123;2100:1099","2100:1151",3,20.71,"TRUE","FALSE",12,9,6,0,"0.00%",0
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","457222149","2025-10-20 18:18:00","2025-10-20 19:50:20",5540.2,,"Windows",,,"Chrome","141.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1151;2100:2054;2100:1231;2100:2054;2319:2123;2100:1099","2100:2054",1.1,20.71,"TRUE","FALSE",76,6,6,0,"0.00%",0
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","457222149","2025-10-20 18:18:00","2025-10-20 19:50:20",5540.2,,"Windows",,,"Chrome","141.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1151;2100:2054;2100:1231;2100:2054;2319:2123;2100:1099","2100:1231",4,20.71,"TRUE","FALSE",11,9,6,0,"0.00%",0
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","457222149","2025-10-20 18:18:00","2025-10-20 19:50:20",5540.2,,"Windows",,,"Chrome","141.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1151;2100:2054;2100:1231;2100:2054;2319:2123;2100:1099","2100:2054",1.7,20.71,"TRUE","FALSE",10,6,6,0,"0.00%",0
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","457222149","2025-10-20 18:18:00","2025-10-20 19:50:20",5540.2,,"Windows",,,"Chrome","141.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1151;2100:2054;2100:1231;2100:2054;2319:2123;2100:1099","2319:2123",3.7,20.71,"TRUE","FALSE",90,9,6,0,"0.00%",0
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","457222323","2025-10-20 18:19:15","2025-10-20 19:50:26",5470.8,,"Mac OS","Apple","Macintosh","Chrome","136.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1151;2100:2054;2319:2123;2100:1099","2100:2054",14.8,37.77,"TRUE","FALSE",90,6,9,5,"55.56%",3
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","457222323","2025-10-20 18:19:15","2025-10-20 19:50:26",5470.8,,"Mac OS","Apple","Macintosh","Chrome","136.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1151;2100:2054;2319:2123;2100:1099","2100:1151",2.1,37.77,"TRUE","FALSE",4,9,9,5,"55.56%",3
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","457222323","2025-10-20 18:19:15","2025-10-20 19:50:26",5470.8,,"Mac OS","Apple","Macintosh","Chrome","136.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1151;2100:2054;2319:2123;2100:1099","2100:1151",2.1,37.77,"TRUE","FALSE",12,9,9,5,"55.56%",3
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","457222323","2025-10-20 18:19:15","2025-10-20 19:50:26",5470.8,,"Mac OS","Apple","Macintosh","Chrome","136.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1151;2100:2054;2319:2123;2100:1099","2100:2054",17.1,37.77,"TRUE","FALSE",47,58,9,5,"55.56%",3
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","457222323","2025-10-20 18:19:15","2025-10-20 19:50:26",5470.8,,"Mac OS","Apple","Macintosh","Chrome","136.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1151;2100:2054;2319:2123;2100:1099","2100:2054",17.1,37.77,"TRUE","FALSE",84,59,9,5,"55.56%",3
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","457222323","2025-10-20 18:19:15","2025-10-20 19:50:26",5470.8,,"Mac OS","Apple","Macintosh","Chrome","136.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1151;2100:2054;2319:2123;2100:1099","2100:2054",17.1,37.77,"TRUE","FALSE",84,59,9,5,"55.56%",3
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","457222323","2025-10-20 18:19:15","2025-10-20 19:50:26",5470.8,,"Mac OS","Apple","Macintosh","Chrome","136.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1151;2100:2054;2319:2123;2100:1099","2100:2054",17.1,37.77,"TRUE","FALSE",12,6,9,5,"55.56%",3
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","457222323","2025-10-20 18:19:15","2025-10-20 19:50:26",5470.8,,"Mac OS","Apple","Macintosh","Chrome","136.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1151;2100:2054;2319:2123;2100:1099","2319:2123",3.8,37.77,"TRUE","FALSE",46,40,9,5,"55.56%",3
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","457222323","2025-10-20 18:19:15","2025-10-20 19:50:26",5470.8,,"Mac OS","Apple","Macintosh","Chrome","136.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2100:1151;2100:2054;2319:2123;2100:1099","2319:2123",3.8,37.77,"TRUE","FALSE",89,9,9,5,"55.56%",3
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","457727691","2025-10-21 19:49:44","2025-10-21 19:50:46",61.9,,"Windows",,,"Chrome","141.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2319:2123;2100:1099","2100:2054",1.4,2.59,"TRUE","FALSE",7,4,2,0,"0.00%",0
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","457727691","2025-10-21 19:49:44","2025-10-21 19:50:46",61.9,,"Windows",,,"Chrome","141.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2319:2123;2100:1099","2319:2123",1.2,2.59,"TRUE","FALSE",88,9,2,0,"0.00%",0
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","457412466","2025-10-22 03:29:00","2025-10-22 03:30:11",70.9,,"Windows",,,"Opera","122.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2319:2123;2100:1099","2100:2054",4,8.43,"TRUE","FALSE",9,5,7,5,"71.43%",1
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","457412466","2025-10-22 03:29:00","2025-10-22 03:30:11",70.9,,"Windows",,,"Opera","122.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2319:2123;2100:1099","2319:2123",4.4,8.43,"TRUE","FALSE",56,26,7,5,"71.43%",1
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","457412466","2025-10-22 03:29:00","2025-10-22 03:30:11",70.9,,"Windows",,,"Opera","122.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2319:2123;2100:1099","2319:2123",4.4,8.43,"TRUE","FALSE",59,28,7,5,"71.43%",1
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","457412466","2025-10-22 03:29:00","2025-10-22 03:30:11",70.9,,"Windows",,,"Opera","122.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2319:2123;2100:1099","2319:2123",4.4,8.43,"TRUE","FALSE",58,28,7,5,"71.43%",1
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","457412466","2025-10-22 03:29:00","2025-10-22 03:30:11",70.9,,"Windows",,,"Opera","122.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2319:2123;2100:1099","2319:2123",4.4,8.43,"TRUE","FALSE",87,63,7,5,"71.43%",1
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","457412466","2025-10-22 03:29:00","2025-10-22 03:30:11",70.9,,"Windows",,,"Opera","122.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2319:2123;2100:1099","2319:2123",4.4,8.43,"TRUE","FALSE",87,63,7,5,"71.43%",1
+"454285010","5f559da3-8ee3-4cab-85ab-56dc328c760a","mission","Acesse as configurações","Navegue até a tela de configurações
+","457412466","2025-10-22 03:29:00","2025-10-22 03:30:11",70.9,,"Windows",,,"Opera","122.0.0.0","pt-BR","link",,"GOAL_BASED","2100:2054;2319:2123;2100:1099","2319:2123",4.4,8.43,"TRUE","FALSE",89,9,7,5,"71.43%",1
